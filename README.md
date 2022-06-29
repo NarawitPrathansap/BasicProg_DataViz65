@@ -1,2 +1,5 @@
 # BasicProg_DataViz65
 รวบรวมงานวิชา SC663401 : Basic Programming for Data Science and Data Visualization ของนราวิชญ์ ประทานทรัพย์ ID 633020445-9
+
+# Grading
+![grading image](Grading.jpg)
