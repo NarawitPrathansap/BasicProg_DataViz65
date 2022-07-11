@@ -3,7 +3,7 @@
 
 # Grading
 ![grading image](Grading.jpg)
-YoKe Pornnakanok
+
 # สมาชิกในกลุ่ม
 กลุ่มมิดเทอม ชื่อ หวัดดีเบล
 1. นายนราวิชญ์ ประทานทรัพย์
